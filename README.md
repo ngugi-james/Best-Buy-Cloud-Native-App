@@ -1,4 +1,4 @@
-# CST8915_LabAssignment2
+# Best Buy Cloud-Native App
 
 # Updated Application Architecture
 
