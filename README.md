@@ -2,7 +2,7 @@
 
 # Updated Application Architecture
 
-![Updated Architecture Diagram](path/to/architecture-diagram.png)
+![Architecture Diagram](FinalAssignment-1.png)
 
 ## Application and Architecture Explanation
 
