@@ -1,6 +1,6 @@
 # Best Buy Cloud-Native App
 
-# Updated Application Architecture
+## Updated Application Architecture
 
 ![Architecture Diagram](FinalAssignment-1.png)
 
